@@ -1,8 +1,9 @@
 {
   "name": "webpack-react-typescript-starter",
+  "private": true,
   "version": "0.1.0",
   "description": "Starter project with Webpack, React, and TypeScript",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "build": "webpack --config webpack.config.prod.js",
     "lint": "tslint src/*.{ts,tsx} src/**/*.{ts,tsx}",
