@@ -1,1 +1,10 @@
 @import '../../styles/vars';
+
+.dn-app-heading {
+  background-color: $dn-app-heading-bg-color;
+  color: $dn-app-heading-font-color;
+  font-size: 3em;
+  font-weight: 300;
+  margin: 0;
+  padding: 3em 1em;
+}
