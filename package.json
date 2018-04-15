@@ -1,7 +1,7 @@
 {
   "name": "webpack-react-typescript-starter",
   "private": true,
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Starter project with Webpack, React, and TypeScript",
   "main": "index.ts",
   "scripts": {
