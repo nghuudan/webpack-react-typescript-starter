@@ -5,7 +5,7 @@ import { App } from './components';
 import '.';
 
 jest.mock('react-dom');
-jest.mock('./components/app');
+jest.mock('./components');
 
 describe('Index', () => {
   it('should call render once', () => {
