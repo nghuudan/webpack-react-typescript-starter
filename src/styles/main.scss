@@ -1,0 +1,15 @@
+@import './vars';
+@import '../components/app/app';
+
+html {
+  height: 100%;
+}
+
+body {
+  background-color: $dn-body-bg-color;
+  color: $dn-body-font-color;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 10pt;
+  height: 100%;
+  margin: 0;
+}
